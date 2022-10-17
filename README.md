@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DuckyBlender
-- 👀 I’m interested in C, Web Servers and Python
-- 🌱 I’m currently learning C and C++
+- 👀 I’m interested in C, Web Servers and Rust
+- 🌱 I’m currently learning C and Rust
 - ✨ Currently making a discord bot called rednelbykcud bot! (duckyblender backwards)
 
 <!---
