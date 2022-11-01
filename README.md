@@ -2,7 +2,16 @@
 - 👀 I’m interested in C, Web Servers and Rust
 - 🌱 I’m currently learning C and Rust
 - ✨ Currently making a discord bot called rednelbykcud bot! (duckyblender backwards)
-
+I know:
+- Rust (learning)
+- C
+- C++
+- Python (pro)
+- Kotlin (in android studio)
+- HTML (basic)
+- CSS (basic)
+- JavaScript
+- 
 <!---
 DuckyBlender/DuckyBlender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
