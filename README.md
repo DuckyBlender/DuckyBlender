@@ -2,7 +2,7 @@
 - 👀 I’m interested in C, Web Servers and Rust
 - 🌱 I’m currently learning C and Rust
 - ✨ Currently making a discord bot called rednelbykcud bot! (duckyblender backwards)
-- 
+
 I know:
 - Rust (learning)
 - C
