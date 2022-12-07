@@ -12,6 +12,7 @@ I know:
 - HTML (basic)
 - CSS (basic)
 - JavaScript
+- Visual Basic
 
 <!---
 DuckyBlender/DuckyBlender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
