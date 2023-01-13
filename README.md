@@ -39,12 +39,12 @@ Hi there! My name is DuckyBlender and I am a software developer with a passion f
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white)
 
 ### Stats
-[![DuckyBlender's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuckyBlender&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyBlender&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![DuckyBlender's GitHub stats](https://github-readme-stats-sigma-eight-31.vercel.app/api?username=DuckyBlender&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-eight-31.vercel.app/api/top-langs/?username=DuckyBlender&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My favourite repos
-[![Bevy Snake](https://github-readme-stats.vercel.app/api/pin/?username=DuckyBlender&repo=bevy_snake&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-[![Zastępstwa Rust](https://github-readme-stats.vercel.app/api/pin/?username=DuckyBlender&repo=zastepstwa-rust&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Bevy Snake](https://github-readme-stats-sigma-eight-31.vercel.app/api/pin/?username=DuckyBlender&repo=bevy_snake&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Zastępstwa Rust](https://github-readme-stats-sigma-eight-31.vercel.app/api/pin/?username=DuckyBlender&repo=zastepstwa-rust&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Metrics](https://metrics.lecoq.io/DuckyBlender?template=classic&repositories.forks=true&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FWarsaw)
