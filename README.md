@@ -43,7 +43,7 @@ Hi there! My name is DuckyBlender and I am a software developer with a passion f
 [![Top Langs](https://github-readme-stats-sigma-eight-31.vercel.app/api/top-langs/?username=DuckyBlender&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My favourite repos
-[![Bevy Snake](https://github-readme-stats-sigma-eight-31.vercel.app/api/pin/?username=DuckyBlender&repo=bevy_snake&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![GPT-3 Telegram](https://github-readme-stats-sigma-eight-31.vercel.app/api/pin/?username=DuckyBlender&repo=gpt3-telegram&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 [![Zastępstwa Rust](https://github-readme-stats-sigma-eight-31.vercel.app/api/pin/?username=DuckyBlender&repo=zastepstwa-rust&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 
