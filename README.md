@@ -46,5 +46,8 @@ Hi there! My name is DuckyBlender and I am a software developer with a passion f
 [![GPT-3 Telegram](https://github-readme-stats-sigma-eight-31.vercel.app/api/pin/?username=DuckyBlender&repo=gpt3-telegram&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 [![Zastępstwa Rust](https://github-readme-stats-sigma-eight-31.vercel.app/api/pin/?username=DuckyBlender&repo=zastepstwa-rust&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
+### Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/445928169350889472)](https://discord.com/users/445928169350889472)
 
+### Github
 ![Metrics](https://metrics.lecoq.io/DuckyBlender?template=classic&repositories.forks=true&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FWarsaw)
