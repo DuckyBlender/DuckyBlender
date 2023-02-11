@@ -1,5 +1,5 @@
 # DuckyBlender
-Hi there! My name is DuckyBlender (takie fajne imie? gdzie nabyc?) and I am a software developer with a passion for rust and Python. I love creating discord bots and have experience building them using the Python programming language. I am also a member of the Moveit organization, where I contribute to a variety of projects and collaborate with other like-minded developers. In my free time, I enjoy staying up-to-date with the latest developments in the world of technology and attending hackathons and programming competitions. Thanks for visiting my profile and I hope to collaborate with you on future projects!
+Hi there! My name is Alan, (aka DuckyBlender) and I am a software developer with a passion for rust and Python. I love creating discord bots and have experience building them using the Python programming language. I am also a member of the Moveit organization, where I contribute to a variety of projects and collaborate with other like-minded developers. In my free time, I enjoy staying up-to-date with the latest developments in the world of technology and attending hackathons and programming competitions. Thanks for visiting my profile and I hope to collaborate with you on future projects!
 
 ---
 
