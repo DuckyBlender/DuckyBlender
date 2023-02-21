@@ -1,53 +1,60 @@
-# DuckyBlender
-Hi there! My name is Alan, (aka DuckyBlender) and I am a software developer with a passion for rust and Python. I love creating discord bots and have experience building them using the Python programming language. I am also a member of the Moveit organization, where I contribute to a variety of projects and collaborate with other like-minded developers. In my free time, I enjoy staying up-to-date with the latest developments in the world of technology and attending hackathons and programming competitions. Thanks for visiting my profile and I hope to collaborate with you on future projects!
+Hi 👋 My name is Alan
+=====================
 
----
+Rust Developer & Student
+------------------------
 
-### Programming Languages
+I am a software developer with a passion for Rust and Python. I love creating discord bots and have experience building them using the Python programming language. I am also a member of the Moveit organization, which aim to help with public transport delays. I contribute to a variety of projects and collaborate with other like-minded developers. In my free time, I enjoy staying up-to-date with the latest developments in the world of technology (epecially AI) and attending hackathons and programming competitions. Thanks for visiting my profile and I hope to collaborate with you on future projects!
 
-![Rust](https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=Markdown&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
-![Visual Basic](https://img.shields.io/badge/Visual%20Basic-9B4F96?logo=Visual%20Basic&logoColor=white)
+* 🌍  I'm based in Poland
+* 🖥️  See my portfolio at [ducky.pics](http://ducky.pics)
+* ✉️  You can contact me at [github@alanklas.com](mailto:github@alanklas.com)
+* 🚀  I'm currently working on [Moveit](http://getmoveit.app/)
+* 🧠  I'm learning Actix-web & Tensorflow
+* ⚡  Certified AWS Cloud Practitioner
+
+### Skills
 
 
-### Software, Sites & Tools
+<p align="left">
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-![GIMP](https://img.shields.io/badge/GIMP-5C5543?logo=GIMP&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
-![OpenJDK](https://img.shields.io/badge/OpenJDK-FFFFFF?logo=OpenJDK&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-F49342?logo=Krita&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-8A9597?logo=Android%20Studio&logoColor=white)
 
-### Hosting, Infrastructure and Databases
+### Socials
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=Amazon%20AWS&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white)
-![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?logo=Github%20Actions&logoColor=white)
-![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?logo=Namecheap&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white)
+<p align="left"> <a href="https://discord.com/users/445928169350889472" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/duckyblender" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alanklas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/duckyblender" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/duckyblender" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/duckyblender" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/duckyblender" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-### Stats
-[![DuckyBlender's GitHub stats](https://github-readme-stats-sigma-eight-31.vercel.app/api?username=DuckyBlender&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-sigma-eight-31.vercel.app/api/top-langs/?username=DuckyBlender&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+### Badges
 
-### My favourite repos
-[![GPT-3 Telegram](https://github-readme-stats-sigma-eight-31.vercel.app/api/pin/?username=DuckyBlender&repo=gpt3-telegram&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-[![Zastępstwa Rust](https://github-readme-stats-sigma-eight-31.vercel.app/api/pin/?username=DuckyBlender&repo=zastepstwa-rust&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<b>My GitHub Stats</b>
 
-### Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/445928169350889472)](https://discord.com/users/445928169350889472)
+<a href="http://www.github.com/duckyblender"><img src="https://github-readme-stats.vercel.app/api?username=duckyblender&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="duckyblender's GitHub stats" /></a>
 
-### Github
-![Metrics](https://metrics.lecoq.io/DuckyBlender?template=classic&repositories.forks=true&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FWarsaw)
+<a href="http://www.github.com/duckyblender"><img src="https://github-readme-streak-stats.herokuapp.com/?user=duckyblender&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/duckyblender"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=duckyblender&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/duckyblender" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckyblender&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/duckyblender/zastepstwa-rust" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=duckyblender&repo=zastepstwa-rust&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/duckyblender/gpt3-telegram" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=duckyblender&repo=gpt3-telegram&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/duckyblender"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
