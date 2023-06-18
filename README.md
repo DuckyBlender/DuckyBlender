@@ -8,7 +8,7 @@ I am a software developer with a passion for Rust and Python. I love creating di
 
 * 🌍  I'm based in Poland
 * 🖥️  See my portfolio at [ducky.pics](http://ducky.pics) (WIP)
-* ✉️  You can contact me at [github@alanklas.com](mailto:github@alanklas.com)
+* ✉️  You can contact me at [42645784+DuckyBlender@users.noreply.github.com](mailto:42645784+DuckyBlender@users.noreply.github.com)
 * 🚀  I'm currently working @ [Moveit](http://getmoveit.app/)
 * 🧠  I'm learning Rust & PyTorch
 * ⚡  Certified AWS Cloud Practitioner
