@@ -8,7 +8,6 @@ I am a software developer with a passion for Rust and Python. I love creating di
 
 * 🌍 I'm based in Poland
 * ✉️ You can contact me at [github@alanklas.com](mailto:github@alanklas.com)
-* 🚀 I'm currently working @ [Moveit](http://getmoveit.app/)
-* 📕 In my free time I'm working on an LLM AI
+* 📕 In my free time I'm working on random interesting projects, mainly about AI
 * 🧠 I'm learning Rust, PyTorch & Next.js
 * ⚡ Certified AWS Cloud Practitioner
