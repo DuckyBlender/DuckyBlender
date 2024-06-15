@@ -1,13 +1,15 @@
-Hi 👋 My name is Alan
+Hi there! 👋 I'm Alan
 =====================
 
 Rust Developer & Student
 ------------------------
 
-I am a software developer with a passion for Rust and Python. I love creating discord and telegram bots and have experience building them using the Rust programming language. I am also a member of the Moveit organization, which aim to help with public transport. I contribute to a variety of projects and collaborate with other like-minded developers. In my free time, I enjoy staying up-to-date with the latest developments in the world of technology (epecially AI) and attending hackathons and programming competitions. Thanks for visiting my profile and I hope to collaborate with you on future projects!
+Welcome to my corner of GitHub! I'm a software developer with a borderline unhealthy obsession with Rust and LLMs. I have experience with fine-tuning AI models and I have a knack for creating way too many Telegram bots. Seriously, it's a problem. When I'm not buried in code, I'm probably tinkering with Linux, and yes, I'm currently diving into the magical world of NixOS.
 
-* 🌍 I'm based in Poland
-* ✉️ You can contact me at [github@alanklas.com](mailto:github@alanklas.com)
-* 📕 In my free time I'm working on random interesting projects, mainly about AI
-* 🧠 I'm learning Rust, PyTorch & Next.js
-* ⚡ Certified AWS Cloud Practitioner
+I'm all about collaborating on cool projects, especially if they involve AI. Speaking of which, check out my telegram bot which uses my own fine-tuned models: [sussy_ducky_bot](https://github.com/DuckyBlender/sussy_ducky_bot)
+
+* 🌍 Coding from Poland
+* ✉️ Contact me @ [github@alanklas.com](mailto:github@alanklas.com)
+* 📕 Forever juggling random projects, mostly about AI
+* 🧠 Brushing up on Rust, PyTorch & Next.js
+* ⚡ Certified AWS Cloud Practitioner (with more to come!)
