@@ -1,6 +1,8 @@
 Hi there! 👋 I'm Alan
 =====================
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=DuckyBlender)](https://github.com/DuckyBlender)
+
 Rust Developer & Student
 ------------------------
 
