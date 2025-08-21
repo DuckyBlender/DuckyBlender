@@ -11,7 +11,6 @@ Welcome to my corner of GitHub! I'm a software developer with a borderline unhea
 I'm all about collaborating on cool projects, especially if they involve AI. Speaking of which, check out my telegram bot which uses my own fine-tuned models: [sussy_ducky_bot](https://github.com/DuckyBlender/sussy_ducky_bot)
 
 * 🌍 Coding from Poland
-* ✉️ Contact me @ [github@alanklas.com](mailto:github@alanklas.com)
 * 📕 Forever juggling random projects, mostly about AI
 * 🧠 Brushing up on Rust, PyTorch & Next.js
 * ⚡ Certified AWS Cloud Practitioner (with more to come!)
