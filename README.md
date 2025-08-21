@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Alan
+Hi there! 👋 I'm Ducky
 =====================
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=DuckyBlender)](https://github.com/DuckyBlender)
